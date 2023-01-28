@@ -1,11 +1,16 @@
 _repo: When-Africa-awakes-The-inside-story-of-the-stirrings-and-strivings-of-the-new-Negro-in-the-We__69712
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69712-h/images/cover.jpg
 creator:
   author:
     agent_name: Harrison, Hubert H.
     gutenberg_agent_id: '55380'
     url: http://www.gutenberg.org/2009/agents/55380
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69712#When-Africa-awakes-The-inside-story-of-the-stirrings-and-strivings-of-the-new-Negro-in-the-We_
 gutenberg_issued: '2023-01-05'
 identifiers:
   gutenberg: '69712'
